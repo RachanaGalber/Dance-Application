@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dance-Application/static/css/main.16b3f642.css",
+    "main.js": "/Dance-Application/static/js/main.99ec2ebd.js",
+    "static/media/danceSingroup.jpg": "/Dance-Application/static/media/danceSingroup.f2306fbecc171ce188d4.jpg",
+    "static/media/dance22side.jpg": "/Dance-Application/static/media/dance22side.d1e8caded2ec496a71b3.jpg",
+    "index.html": "/Dance-Application/index.html",
+    "main.16b3f642.css.map": "/Dance-Application/static/css/main.16b3f642.css.map",
+    "main.99ec2ebd.js.map": "/Dance-Application/static/js/main.99ec2ebd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b3f642.css",
+    "static/js/main.99ec2ebd.js"
+  ]
+}
